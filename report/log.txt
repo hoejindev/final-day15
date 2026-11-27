@@ -1,3 +1,21 @@
+*   79aeb39 Merge pull request #4 from hoejindev/feature/battery
+|\  
+| * 45e60fb 배터리 경고 기준 추가
+| * 11e1e69 배터리 설정 추가
+|/  
+*   8f234f4 Merge pull request #3 from hoejindev/feature/speed-safe
+|\  
+| *   92462e6 속도 2.0으로 충돌 해결
+| |\  
+| |/  
+|/|   
+* |   4385ece Merge pull request #2 from hoejindev/feature/speed-up
+|\ \  
+| * | 5e100a1 속도 2.5로 변경
+|/ /  
+| * fb73015 속도 1.0으로 변경
+|/  
+* 76c52f5 작업 기록 저장
 *   8c4678c Merge pull request #1 from hoejindev/feature/sensor
 |\  
 | * 8c01fdd 센서 설정 추가
