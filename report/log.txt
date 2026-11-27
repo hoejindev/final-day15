@@ -1,0 +1,16 @@
+*   8c4678c Merge pull request #1 from hoejindev/feature/sensor
+|\  
+| * 8c01fdd 센서 설정 추가
+|/  
+*   4ef77a1 속도 1.5로 충돌 해결
+|\  
+| * c0124cd 속도 2.0으로 변경
+* | f64b44a 속도 1.5로 변경
+|/  
+*   e79e603 Merge branch 'main' of https://github.com/hoejindev/final-day15
+|\  
+| * ef48665 README 설명 추가
+* | 876122e 팀원 목록 추가
+|/  
+* 755cf24 설정 파일 추가
+* 7d4589d Initial commit
